@@ -1,0 +1,78 @@
+
+            h1 {
+                color:rgb(255, 255, 255);
+                text-align: center;
+                border-style: dotted;
+                border-color:white;
+                border-width: medium;
+               border-collapse: separate;
+            }
+
+            .Games{
+                color: white;
+                display:flex;
+                flex-wrap:wrap;
+                justify-content: space-evenly;
+            }
+            
+            body{
+                background-image: url("https://goldwallpapers.com/uploads/posts/fullscreen-wallpapers/fullscreen_wallpapers_008.jpg");
+            }
+
+            *{
+                flex-direction: row;
+            }
+
+            .Header2{
+                color:red;
+            }
+
+            .Header{
+                color:rgb(255, 255, 255);
+            }
+
+            .Line{
+                text-align: center;
+            }
+
+            .certificate2{
+                text-align: left;
+            }
+
+            .Menu{
+                color: white;
+            }
+
+            .intro{
+                color: white;
+            }
+
+            .Mygames1{
+                color:white;
+            }
+
+            .Mygames2{
+                color: white ;
+            }
+
+            .Mygames3{
+                color:white;
+            }
+
+            .Mygames4{
+                color:  white;
+            }
+
+            .Mygames5{
+                color:  white;
+            }
+
+            .n{
+                color: yellow;
+            }
+
+            a:link{
+                color: white;
+            }
+
+    
